@@ -1,2 +1,3 @@
+Adding a new line as first line
 first file
 new line added
